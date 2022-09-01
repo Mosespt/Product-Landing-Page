@@ -133,7 +133,7 @@ nav {
 }
 
 nav > ul {
-  width: 35vw;
+  width: 55vw;
   display: flex;
   flex-direction: row;
   justify-content: space-around;
