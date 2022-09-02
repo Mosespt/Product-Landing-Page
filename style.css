@@ -54,8 +54,9 @@ a {
 header {
   position: fixed;
   top: 0;
+  width:100%;
   min-height: 75px;
-  padding: 0px 20px;
+  padding: 0px 5px;
   display: flex;
   justify-content: space-around;
   align-items: center;
@@ -70,7 +71,7 @@ header {
 
 .logo {
   width: 45vw;
-  float:left; 
+  float: left; 
 }
 
 @media (max-width: 650px) {
@@ -133,7 +134,7 @@ nav {
 }
 
 nav > ul {
-  width: 55vw;
+  width: 35vw;
   display: flex;
   flex-direction: row;
   justify-content: space-around;
